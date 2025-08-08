@@ -195,9 +195,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+## Development Inspiration
+
+This project was inspired by [@levelsio's tweet](https://x.com/levelsio/status/1951764854580105453) about the modern development workflow:
+
+📱 **Termius on phone** for SSH access  
+🤖 **Claude on server** for vibe coding and self-deployment  
+⚡ **Incredibly fast iteration** - from idea to production in minutes
+
+The entire stack runs directly on the GPU server, making development seamless and deployment instant.
+
 ## Acknowledgments
 
 - **Claude** for live-coding this entire project on the server 🤖
+- [@levelsio](https://x.com/levelsio) for inspiring this mobile-first development approach
 - PyTorch team for the ML framework
 - Flask and Socket.IO for real-time web capabilities
 - Chart.js for beautiful visualizations
