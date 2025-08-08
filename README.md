@@ -2,7 +2,9 @@
 
 A real-time web dashboard for training and testing Convolutional Neural Networks on the MNIST dataset. Features live training metrics, interactive charts, and image classification with both file upload and drawing canvas.
 
-![CNN Training Dashboard](https://img.shields.io/badge/PyTorch-2.0+-red?logo=pytorch) ![Flask](https://img.shields.io/badge/Flask-3.0+-blue?logo=flask) ![License](https://img.shields.io/badge/License-MIT-green)
+> 🤖 **This entire project was live-coded with Claude on the server!** Check out [CLAUDE.md](CLAUDE.md) to see the prompting session that built this from scratch.
+
+![CNN Training Dashboard](https://img.shields.io/badge/PyTorch-2.0+-red?logo=pytorch) ![Flask](https://img.shields.io/badge/Flask-3.0+-blue?logo=flask) ![License](https://img.shields.io/badge/License-MIT-green) ![Claude](https://img.shields.io/badge/Built_with-Claude-orange)
 
 ## Features
 
@@ -191,7 +193,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
+- **Claude** for live-coding this entire project on the server 🤖
 - PyTorch team for the ML framework
 - Flask and Socket.IO for real-time web capabilities
 - Chart.js for beautiful visualizations
 - MNIST dataset for training data
+
+---
+
+*This project demonstrates the power of AI-assisted development. The entire codebase, from initial GPU testing to the final web dashboard, was built through natural language conversations with Claude running directly on the server. See [CLAUDE.md](CLAUDE.md) for the complete development story.*
