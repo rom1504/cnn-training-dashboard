@@ -2,6 +2,10 @@
 
 A real-time web dashboard for training and testing Convolutional Neural Networks on the MNIST dataset. Features live training metrics, interactive charts, and image classification with both file upload and drawing canvas.
 
+<p align="center">
+  <img src="screenshot_cnn.png" alt="CNN Training Dashboard Screenshot" width="600">
+</p>
+
 > 🤖 **This entire project was live-coded with Claude on the server!** Check out [CLAUDE.md](CLAUDE.md) to see the prompting session that built this from scratch.
 
 ![CNN Training Dashboard](https://img.shields.io/badge/PyTorch-2.0+-red?logo=pytorch) ![Flask](https://img.shields.io/badge/Flask-3.0+-blue?logo=flask) ![License](https://img.shields.io/badge/License-MIT-green) ![Claude](https://img.shields.io/badge/Built_with-Claude-orange)
